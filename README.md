@@ -1,4 +1,4 @@
-# LangChain MCP Adapters
+# LangChain MCP Adapters - README.md
 
 This library provides a lightweight wrapper that makes [Anthropic Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) tools compatible with [LangChain](https://github.com/langchain-ai/langchain) and [LangGraph](https://github.com/langchain-ai/langgraph).
 
